@@ -8,20 +8,20 @@
 
 | 特性 | `config.yaml` | `config.yaml` | `config.yaml` | `config.yaml` |
 | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 5.6 KB | 4.2 KB | 32.6 KB | 18.9 KB |
+| **大小** | 18.9 KB | 4.2 KB | 32.6 KB | 5.6 KB |
 | **混合端口** | 7890 | 7890 | 7890 | 7890 |
 | **面板地址** | 0.0.0.0:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 |
-| **运行模式** | rule | Rule | rule | Rule |
-| **TUN** | ✅ | ✅ | ✅ | 🚫 |
-| **策略组** | **7** | **3** | **51** | **34** |
-| **规则数** | **8** | **4** | **60** | **38** |
+| **运行模式** | Rule | Rule | rule | rule |
+| **TUN** | 🚫 | ✅ | ✅ | ✅ |
+| **策略组** | **34** | **3** | **51** | **7** |
+| **规则数** | **38** | **4** | **60** | **8** |
 
 ## 📄 配置详情
 
 ### 👤 AkashaProxy
 
 #### 📝 config.yaml
-- **路径**: `AkashaProxy/config.yaml` | **大小**: 32.6 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/Mobile_Modules/AkashaProxy/config.yaml)
+- **路径**: `AkashaProxy/config.yaml` | **大小**: 32.6 KB | [查看源码](https://github.com/TTimika/MIHOMO_YAMLS/blob/main/THEYAMLS/Mobile_Modules/AkashaProxy/config.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (51个)</summary>
@@ -55,7 +55,7 @@
 ### 👤 BoxProxy
 
 #### 📝 config.yaml
-- **路径**: `BoxProxy/config.yaml` | **大小**: 4.2 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/Mobile_Modules/BoxProxy/config.yaml)
+- **路径**: `BoxProxy/config.yaml` | **大小**: 4.2 KB | [查看源码](https://github.com/TTimika/MIHOMO_YAMLS/blob/main/THEYAMLS/Mobile_Modules/BoxProxy/config.yaml)
 - **模式**: Rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (3个)</summary>
@@ -71,7 +71,7 @@
 ### 👤 ClashMix
 
 #### 📝 config.yaml
-- **路径**: `ClashMix/config.yaml` | **大小**: 5.6 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/Mobile_Modules/ClashMix/config.yaml)
+- **路径**: `ClashMix/config.yaml` | **大小**: 5.6 KB | [查看源码](https://github.com/TTimika/MIHOMO_YAMLS/blob/main/THEYAMLS/Mobile_Modules/ClashMix/config.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (7个)</summary>
@@ -91,7 +91,7 @@
 ### 👤 Surfing
 
 #### 📝 config.yaml
-- **路径**: `Surfing/config.yaml` | **大小**: 18.9 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/Mobile_Modules/Surfing/config.yaml)
+- **路径**: `Surfing/config.yaml` | **大小**: 18.9 KB | [查看源码](https://github.com/TTimika/MIHOMO_YAMLS/blob/main/THEYAMLS/Mobile_Modules/Surfing/config.yaml)
 - **模式**: Rule | **TUN**: 🚫 | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (34个)</summary>
