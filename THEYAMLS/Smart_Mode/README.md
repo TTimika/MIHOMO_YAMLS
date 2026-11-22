@@ -8,7 +8,7 @@
 
 | 特性 | `smart.yaml` | `clash-all-smart.yaml` | `clash-all-fallback-smart.yaml` | `clash-fallback-smart-std.yaml` | `OneSmartProMCX.yaml` | `OneSmart_Lite_Config.yaml` | `OneSmart_Config.yaml` | `MihomoSmartProMax.yaml` | `MihomoSmartAIO.yaml` | `THESmart.yaml` | `MihomoSmartProPlus.yaml` | `mihomo_smart.yaml` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 13.7 KB | 15.1 KB | 18.2 KB | 17.7 KB | 37.8 KB | 12.4 KB | 20.1 KB | 23.6 KB | 30.2 KB | 37.3 KB | 24.1 KB | 15.1 KB |
+| **大小** | 13.7 KB | 15.1 KB | 18.2 KB | 17.7 KB | 37.9 KB | 12.4 KB | 20.1 KB | 23.6 KB | 30.2 KB | 37.3 KB | 24.1 KB | 15.1 KB |
 | **混合端口** | 7890 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 0 |
 | **面板地址** | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | - |
 | **运行模式** | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule |
@@ -242,7 +242,7 @@
 ### 👤 edison
 
 #### 📝 OneSmartProMCX.yaml
-- **路径**: `edison/OneSmartProMCX.yaml` | **大小**: 37.8 KB | [查看源码](https://github.com/TTimika/MIHOMO_YAMLS/blob/main/THEYAMLS/Smart_Mode/edison/OneSmartProMCX.yaml)
+- **路径**: `edison/OneSmartProMCX.yaml` | **大小**: 37.9 KB | [查看源码](https://github.com/TTimika/MIHOMO_YAMLS/blob/main/THEYAMLS/Smart_Mode/edison/OneSmartProMCX.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (44个)</summary>
